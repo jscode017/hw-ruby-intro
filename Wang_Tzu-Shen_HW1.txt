@@ -52,6 +52,6 @@ $1.10
 $20.00
     should display 20 as $20.00 [10 points]
 
-Finished in 0.02782 seconds (files took 0.09957 seconds to load)
+Finished in 0.04269 seconds (files took 0.24453 seconds to load)
 34 examples, 0 failures
 
